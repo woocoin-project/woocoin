@@ -3,3 +3,6 @@ src/qt/test/test_woocoin-qt filter=lfs diff=lfs merge=lfs -text
 src/qt/woocoin-qt filter=lfs diff=lfs merge=lfs -text
 src/test/test_woocoin filter=lfs diff=lfs merge=lfs -text
 src/woocoind filter=lfs diff=lfs merge=lfs -text
+src/libbitcoin_wallet.a filter=lfs diff=lfs merge=lfs -text
+src/libbitcoin_server.a filter=lfs diff=lfs merge=lfs -text
+src/qt/libbitcoinqt.a filter=lfs diff=lfs merge=lfs -text
